@@ -13,7 +13,7 @@ public class BruteForce {
                 j=0;
             }
             if(j==sub.length()){
-                index = str.length()-j;
+                index = i-sub.length();
             }
         }
         return index;
