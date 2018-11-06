@@ -45,4 +45,11 @@ public class KMP {
         }
         return index;
     }
+
+
+//a  b c d b c d f
+//-1 0 0 0 0 0 0 0
+//   d e
+
+
 }
